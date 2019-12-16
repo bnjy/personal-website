@@ -11,7 +11,9 @@
 /public/favicon.ico
 /public/index.html
 /public/images
-/firebase.json
+firebase.json
+.firebase
+.firebaserc
 
 # production
 /build
