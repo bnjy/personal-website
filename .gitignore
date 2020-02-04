@@ -12,6 +12,7 @@
 /public/index.html
 /public/images
 firebase.json
+package-lock.json
 .firebase
 .firebaserc
 
